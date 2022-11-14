@@ -65,7 +65,7 @@ JWT_SECRET=Your secret
 1. You need a ReactExpressGoogleLogin/frontend/.env file with Your Google Client ID:
 
 ```
-GOOGLE_CLIENT_ID=Your google client id
+REACT_APP_GOOGLE_CLIENT_ID=Your google client id
 ```
 
 Finally to start enjoying this project.
