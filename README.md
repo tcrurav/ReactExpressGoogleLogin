@@ -8,11 +8,11 @@ This example is just a copy from https://www.sitepoint.com/google-auth-react-exp
 
 This diagram has been taken from https://blog.prototypr.io/how-to-build-google-login-into-a-react-app-and-node-express-api-821d049ee670. Is a good way to understand the OAuth2 flow used in this project.
 
-![screenshots](https://github.com/tcrurav/google-auth-react-express/blob/master/screenshots/OAuth2Diagram-2.png)
+![screenshots](https://github.com/tcrurav/ReactExpressGoogleLogin/blob/master/screenshots/OAuth2Diagram-2.png)
 
 This other flow diagram is taken from https://medium.com/javarevisited/jwt-and-social-authentication-using-spring-boot-90e4faaa9204. This project doesn't implement this diagrama. But I include it here because It's a good way to understand the following step you will have to do when you implement OAuth2 in a more complete way:
 
-![screenshots](https://github.com/tcrurav/google-auth-react-express/blob/master/screenshots/OAuth2Diagram.png)
+![screenshots](https://github.com/tcrurav/ReactExpressGoogleLogin/blob/master/screenshots/OAuth2Diagram.png)
 
 ## Getting Started
 
@@ -93,3 +93,5 @@ Enjoy!!!
 * https://www.sitepoint.com/google-auth-react-express/. This project is just a copy of this project.
 * https://openwebinars.net/blog/que-es-oauth2/. Interesting introduction to OAuth2.
 * https://www.npmjs.com/package/google-auth-library. This is Google's officially supported node.js client library for using OAuth 2.0 authorization and authentication with Google APIs.
+* https://medium.com/javarevisited/jwt-and-social-authentication-using-spring-boot-90e4faaa9204. JWT and Social Authentication using Spring Boot
+* https://blog.prototypr.io/how-to-build-google-login-into-a-react-app-and-node-express-api-821d049ee670. How to build Google login into a React app and Node/Express API
